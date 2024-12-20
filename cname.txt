@@ -1,4 +1,4 @@
-r2.cloudflarestorage.com:443#节点1
+r2.cloudflarestorage.com:8443#节点1
 146.235.209.10:8443#节点2
 csgo.com:443#节点3
 visa.com.hk:443#节点4
